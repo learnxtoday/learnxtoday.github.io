@@ -1,8 +1,7 @@
 ---
 layout: post
-title: New Decade, Ney System
+title: New Decade, New System
 author: thenerdsuperuser
-date: '2021-01-04'
 tags: ubuntu, vim
 ---
 
