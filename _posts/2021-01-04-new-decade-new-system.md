@@ -3,7 +3,7 @@ layout: post
 title: New Decade, Ney System
 author: thenerdsuperuser
 date: '2021-01-04'
-tags: Tale
+tags: ubuntu, vim
 ---
 
 so i formatted my laptop again, and this time i am going for the generic programmer setup.
