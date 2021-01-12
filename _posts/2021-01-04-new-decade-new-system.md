@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Decade, New System
+title: "New Decade, New System"
 author: thenerdsuperuser
 tags: ubuntu, vim
 ---
