@@ -2,7 +2,7 @@
 layout: post
 title: "New Decade, New System"
 author: "thenerdsuperuser"
-tags: ubuntu, vim
+tags: ubuntu vim
 ---
 
 so i formatted my laptop again, and this time i am going for the generic programmer setup.
