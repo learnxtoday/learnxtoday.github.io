@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deepin DE Window Effect Error"
+title: "Deepin Window Effect Error"
 author: "thenerdsuperuser"
 tags: deepin-de ubuntu
 ---
@@ -21,7 +21,6 @@ It all was due to a file called `kwinrc`, stored in the `~/.config` folder.
 The contents were:
 
 ```bash
-
 [Compositing]
 OpenGLIsUnsafe=true
 
@@ -42,7 +41,6 @@ theme=dark/deepin
 [org.kde.kdecoration2]
 library=com.deepin.chameleon
 theme=
-
 ```
 
 Anyway, all I had to do was delete the file and restart my laptop.
