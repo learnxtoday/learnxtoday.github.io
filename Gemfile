@@ -7,3 +7,5 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "tale"
+gem 'jekyll-feed'
+
