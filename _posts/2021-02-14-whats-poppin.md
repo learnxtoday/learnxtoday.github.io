@@ -11,7 +11,7 @@ It was daunting in the beginning, but eventually became fun. I had a lot stupid 
 
 I ended up making a simple login/registration form, used public APIs to JSONify data and Sqlite3 to store them. Obviosly, they are pretty basic, but it's a start nonetheless.
 
-ALthough, I need to speed up the process, and add CI/CD pipelines to make it more intersting, but yes, that will be the next part. For now, my main motto will be to learn REST APIs in a much better way. 
+Although, I need to speed up the process, and add CI/CD pipelines to make it more intersting, but yes, that will be the next part. For now, my main motto will be to learn REST APIs in a much better way. 
 
 
 #### BUT I NEED IDEAS!!!!
@@ -35,6 +35,6 @@ Well, that's it for now. I won't link any projects here because you can find the
 2. Add Google OAuth2   
 3. Store user data in Mongo   
 4. Generate new data   
-5. Use FASTAPI for admin panels   
+5. Use FASTAPI and [Stisla](https://github.com/stisla/stisla) for admin panels   
 6. Deliver user centric results   
 7. And make it reach a good amount of user base.   
