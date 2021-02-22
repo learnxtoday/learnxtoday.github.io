@@ -1,6 +1,31 @@
+<style>
+.icons img {
+	padding-left: 3%;
+	padding-top: 10px;
+	max-height: 3rem;
+	display: inline-block;
+	vertical-align: text-top;
+	image-orientation: from-image;
+	max-width: 100%;
+	padding-bottom: 5px;
+	cursor: pointer
+}
+
+</style>
+
+
+
 <footer>
-  <span>
-    &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
-	<link href='http://joelglovier.com/feed.xml' rel='alternate' type='application/atom+xml'>
-  </span>
+		<section class="icons">
+			<a href="https://webring.xxiivv.com/#random" target="_blank">
+				<img class="footimgs" alt="xxiivv webring" src="https://d33wubrfki0l68.cloudfront.net/e28a9290364ee3ea6e61478a5d0a935784b439a9/1b3cb/static/webring.svg">
+			</a>
+			<a href="/feed.xml" >
+				<img class="footimgs" alt="rss feed" src="https://d33wubrfki0l68.cloudfront.net/09698529331a5fdd6865bc3c62bb0ae4a02483da/6c747/static/rss.svg">
+			</a>
+		</section>
+		<small align="center">
+			&copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}.
+			<a href="humans.txt">humans.txt</a>
+		</small>
 </footer>

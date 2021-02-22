@@ -11,4 +11,4 @@ I have a lot of things in mind. I see of myself as someone who can make a major 
 
 I wanna implement a lot of things, and let's hope I don't deviate. Bear with me and enjoy this collection.
 
-Also, feel free to tweet me [@vimoveremacs](https://twitter.com/vimoveremacs).
+Also, feel free to tweet me [@vimoveremacs](https://twitter.com/intent/user?screen_name=vimoveremacs).
