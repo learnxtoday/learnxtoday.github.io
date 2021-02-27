@@ -20,6 +20,16 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
 
+	{% if page.podcast %}
+		<div class="podcast" align="center">
+		<audio controls>
+			<source src="{{ page.podcast }}" type="audio/mpeg">
+		</audio>
+		<br />
+		<br />
+		</div>
+	{% endif %}
+
   {{ content }}
 </div>
 
