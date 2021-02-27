@@ -2,7 +2,7 @@
 layout: post
 title: "Flask: After 3 projects"
 author: "thenerdsuperuser"
-podcast: "https://s3.us-west-2.amazonaws.com/audiblogs/95645ee8-e6d3-44fd-acbe-bb852a301a52.mp3"
+podcast-id: "95645ee8-e6d3-44fd-acbe-bb852a301a52"
 tags: flask web-dev python
 ---
 
