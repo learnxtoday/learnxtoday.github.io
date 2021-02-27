@@ -2,8 +2,10 @@
 layout: post
 title: "Flask: After 3 projects"
 author: "thenerdsuperuser"
+podcast: "https://s3.us-west-2.amazonaws.com/audiblogs/95645ee8-e6d3-44fd-acbe-bb852a301a52.mp3"
 tags: flask web-dev python
 ---
+
 
 I started my journey with flask a couple of days ago and learned how to create basic web apps, REST compliant obviosly. It was fun. I learned quite a lot how a web framework works with the dynamic abilities of python and persistent storage using SQL databases(Sqlite3 in this case).
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Install Deepin on Ubuntu"
 author: "thenerdsuperuser"
+podcast: "https://s3.us-west-2.amazonaws.com/audiblogs/b608a47b-75fb-44fa-b72d-af6f42e4a4b7.mp3"
 tags: deepin-de ubuntu
 ---
 
